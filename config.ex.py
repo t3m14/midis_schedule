@@ -1,2 +1,2 @@
-midis_password = "EbQLdH"
-midis_login = "ZJxwT9"
+midis_password = ""
+midis_login = ""
