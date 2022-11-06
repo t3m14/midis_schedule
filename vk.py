@@ -6,7 +6,7 @@ from vkbottle.user import User
 from vkbottle import PhotoMessageUploader
 from portal import MidisSchedule
 from config import midis_password, midis_login
-TOKEN = "vk1.a.nl1Qw7OBimepepyQ8G5z2LdVx8xUtP84q9AH1lTUzER8xiMx9_SZUgbdzykfO3KvDkxAj-JB6cViV0aNjPkN2sOPvRQn3swJrphq3Xu8f7cGMFMeUi_oBIdLKiHSSuOBf_GKH_SBX5YCjWe3ReXeNRcXCPXsuYsyOMkn0GrPf5w5NH-kC53_yF__cYJaaUJ-YW4awNPEdYV6CsDGqWORiA"
+TOKEN = ""
 bot = User(token=TOKEN)
 
 
