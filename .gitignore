@@ -1,6 +1,5 @@
 .vscode
 env/
-images/*
-cookies/*
 jobs.sqlite
-vk.py
+__pycache__
+config.py
